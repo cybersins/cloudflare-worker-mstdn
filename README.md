@@ -1,5 +1,5 @@
 # cloudflare-worker-mstdn
-Cloudflare Worker to fetch Account Information for using it with Alias
+Cloudflare Worker to fetch Account Information & use it for ALIAS.
 
 # Why this?
 Alright, so I have thought multiple times to run my own instance just so I can have a custom-domain, and data within my server (many a times have lost data while moving social networks)
